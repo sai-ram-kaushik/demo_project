@@ -1,6 +1,11 @@
 .backArrow{
     margin: 5px;
+
 }
-/* .typography{
-    margin: 5px;
-} */
+.flex{
+    display: flex;
+}
+.typography{
+    position: relative;
+    
+}
