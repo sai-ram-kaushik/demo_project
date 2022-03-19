@@ -6,6 +6,45 @@
     display: flex;
 }
 .typography{
-    position: relative;
-    
+    padding-top: 7px;
 }
+
+.paper2{
+    display: flex;
+}
+
+.account{
+    opacity: 0.5;
+}
+
+.line{
+    width: 490px;
+    opacity: 0.2;
+    display: flex;
+    margin-top: 10px;
+}
+
+.Lock_Icon{
+    margin-top: 10px;
+}
+
+.password{
+    margin-top: 12px;
+    display: flex;
+}
+
+.otherSettings{
+    padding-top: 15px;
+}
+
+.browser{
+    opacity: 0.5;
+    padding-top: 12px;
+}
+
+.switch{
+    margin-left: 420px;
+    padding-top: 20px;
+    display: flex;
+}
+
